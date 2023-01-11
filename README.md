@@ -6,6 +6,8 @@ A demo program for the Sensirion SCD4X (SDC40, SCD41) CO2/temperature/humidity s
 
 ![Wiring Example](wiring-example.png)
 
+The ESP32 version is also available at [morrisseyj/esp32-scd4x](https://github.com/morrisseyj/esp32-scd4x) (Thanks [@morrisseyj](https://github.com/morrisseyj)).
+
 ## Components
 
 - RP2040
