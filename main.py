@@ -172,7 +172,6 @@ class AQM1602:
 
 if __name__ == "__main__":
     led = machine.Pin(25, machine.Pin.OUT)
-    warning_led = machine.Pin(16, machine.Pin.OUT)
     uart = machine.UART(1, 9600, tx=machine.Pin(4), rx=machine.Pin(5))
 
     # I2C0: SCD4X
